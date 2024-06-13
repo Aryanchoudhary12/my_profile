@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.06c7172a.css",
-    "main.js": "/my_portfolio/static/js/main.542469ad.js",
-    "static/media/florist_boy.png": "/my_portfolio/static/media/florist_boy.12661f37ae6e65d1c9fb.png",
-    "static/media/boy.png": "/my_portfolio/static/media/boy.8cdd20bcc9713af8a93a.png",
-    "static/media/react.png": "/my_portfolio/static/media/react.ff9f5c54c50e94053faf.png",
-    "static/media/nodejs.png": "/my_portfolio/static/media/nodejs.2f0b8535aaf7831d8ad0.png",
-    "static/media/javascript.png": "/my_portfolio/static/media/javascript.f2b42faaa15865677ef2.png",
-    "static/media/my_dp.png": "/my_portfolio/static/media/my_dp.0cde1c955776089b3b83.png",
-    "static/media/css.png": "/my_portfolio/static/media/css.3fed47a991ccb76dd442.png",
-    "static/media/html.png": "/my_portfolio/static/media/html.91992829cfb44a5d563e.png",
-    "static/media/hamburger.png": "/my_portfolio/static/media/hamburger.e95e9249c9e76126fd8c.png",
-    "static/media/sql.png": "/my_portfolio/static/media/sql.cfd9dc3f35b0c23f69dc.png",
-    "index.html": "/my_portfolio/index.html",
-    "main.06c7172a.css.map": "/my_portfolio/static/css/main.06c7172a.css.map",
-    "main.542469ad.js.map": "/my_portfolio/static/js/main.542469ad.js.map"
+    "main.css": "/my_profile/static/css/main.06c7172a.css",
+    "main.js": "/my_profile/static/js/main.dd841f55.js",
+    "static/media/florist_boy.png": "/my_profile/static/media/florist_boy.12661f37ae6e65d1c9fb.png",
+    "static/media/boy.png": "/my_profile/static/media/boy.8cdd20bcc9713af8a93a.png",
+    "static/media/react.png": "/my_profile/static/media/react.ff9f5c54c50e94053faf.png",
+    "static/media/nodejs.png": "/my_profile/static/media/nodejs.2f0b8535aaf7831d8ad0.png",
+    "static/media/javascript.png": "/my_profile/static/media/javascript.f2b42faaa15865677ef2.png",
+    "static/media/my_dp.png": "/my_profile/static/media/my_dp.0cde1c955776089b3b83.png",
+    "static/media/css.png": "/my_profile/static/media/css.3fed47a991ccb76dd442.png",
+    "static/media/html.png": "/my_profile/static/media/html.91992829cfb44a5d563e.png",
+    "static/media/hamburger.png": "/my_profile/static/media/hamburger.e95e9249c9e76126fd8c.png",
+    "static/media/sql.png": "/my_profile/static/media/sql.cfd9dc3f35b0c23f69dc.png",
+    "index.html": "/my_profile/index.html",
+    "main.06c7172a.css.map": "/my_profile/static/css/main.06c7172a.css.map",
+    "main.dd841f55.js.map": "/my_profile/static/js/main.dd841f55.js.map"
   },
   "entrypoints": [
     "static/css/main.06c7172a.css",
-    "static/js/main.542469ad.js"
+    "static/js/main.dd841f55.js"
   ]
 }
